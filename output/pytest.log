@@ -1,0 +1,42 @@
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0 -- /home/ali/upwork-demos/google-sheets-automation/../.venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/ali/upwork-demos/google-sheets-automation
+configfile: pytest.ini
+testpaths: tests
+plugins: asyncio-1.4.0, anyio-4.15.1
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collecting ... collected 30 items
+
+tests/test_jobs.py::test_upsert_inserts_then_updates_without_duplicating PASSED [  3%]
+tests/test_jobs.py::test_upsert_same_id_twice_in_one_import_keeps_last PASSED [  6%]
+tests/test_jobs.py::test_upsert_adds_new_columns_to_header PASSED        [ 10%]
+tests/test_jobs.py::test_upsert_requires_id_column PASSED                [ 13%]
+tests/test_jobs.py::test_phone_normalised[(212) 555-0101-+12125550101] PASSED [ 16%]
+tests/test_jobs.py::test_phone_normalised[212.555.0101-+12125550101] PASSED [ 20%]
+tests/test_jobs.py::test_phone_normalised[+44 20 7946 0958-+442079460958] PASSED [ 23%]
+tests/test_jobs.py::test_phone_normalised[0044 20 7946 0958-+442079460958] PASSED [ 26%]
+tests/test_jobs.py::test_phone_invalid_and_optional PASSED               [ 30%]
+tests/test_jobs.py::test_email_rules PASSED                              [ 33%]
+tests/test_jobs.py::test_dates_to_iso[2026-10-04] PASSED                 [ 36%]
+tests/test_jobs.py::test_dates_to_iso[04/10/2026] PASSED                 [ 40%]
+tests/test_jobs.py::test_dates_to_iso[Oct 04, 2026] PASSED               [ 43%]
+tests/test_jobs.py::test_dates_to_iso[2026/10/04] PASSED                 [ 46%]
+tests/test_jobs.py::test_unreadable_date_flagged PASSED                  [ 50%]
+tests/test_jobs.py::test_clean_normalises_and_routes_invalid_rows PASSED [ 53%]
+tests/test_jobs.py::test_canonical_spelling_from_config PASSED           [ 56%]
+tests/test_jobs.py::test_clean_dedupes_exact_rows_and_flags_double_submission PASSED [ 60%]
+tests/test_jobs.py::test_clean_keeps_latest_version_of_same_order PASSED [ 63%]
+tests/test_jobs.py::test_weekly_report_totals_and_change PASSED          [ 66%]
+tests/test_jobs.py::test_merge_contiguous_rows_into_one_range PASSED     [ 70%]
+tests/test_jobs.py::test_flush_splits_into_requests_under_range_limit PASSED [ 73%]
+tests/test_jobs.py::test_throttle_spaces_requests_to_stay_under_per_minute_quota PASSED [ 76%]
+tests/test_jobs.py::test_backoff_retries_429_with_exponential_delays PASSED [ 80%]
+tests/test_jobs.py::test_backoff_gives_up_after_max_retries PASSED       [ 83%]
+tests/test_jobs.py::test_backoff_delay_is_capped PASSED                  [ 86%]
+tests/test_jobs.py::test_full_pipeline_on_sample_data PASSED             [ 90%]
+tests/test_jobs.py::test_unknown_config_key_rejected PASSED              [ 93%]
+tests/test_jobs.py::test_gspread_429_becomes_rate_limit_error PASSED     [ 96%]
+tests/test_jobs.py::test_gspread_other_errors_pass_through PASSED        [100%]
+
+============================== 30 passed in 0.10s ==============================

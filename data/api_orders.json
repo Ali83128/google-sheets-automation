@@ -1,0 +1,88 @@
+{
+ "orders": [
+  {
+   "order_id": "A-1004",
+   "date": "10/10/2026",
+   "customer": "  farid   garcia",
+   "email": "farid.garcia@example.com",
+   "phone": "(646) 192-8327",
+   "product": "Monitor Arm",
+   "region": "South",
+   "qty": "3",
+   "unit_price": "74.5",
+   "status": "shipped"
+  },
+  {
+   "order_id": "A-1009",
+   "date": "2026-09-16",
+   "customer": "  BEN   rossi",
+   "email": "ben.rossi@example.com",
+   "phone": "",
+   "product": "Desk Lamp",
+   "region": "South",
+   "qty": "3",
+   "unit_price": "39.0",
+   "status": "refunded"
+  },
+  {
+   "order_id": "A-1013",
+   "date": "Sep 17, 2026",
+   "customer": "  anna   smith",
+   "email": "anna.smith@example.com",
+   "phone": "(415) 267-7360",
+   "product": "Desk Lamp",
+   "region": "EAST ",
+   "qty": "2",
+   "unit_price": "$39.00",
+   "status": "shipped"
+  },
+  {
+   "order_id": "A-1200",
+   "date": "2026-10-10",
+   "customer": "Mia Torres",
+   "email": "mia.torres@example.com",
+   "phone": "+1 415 555 0199",
+   "product": "Desk Lamp",
+   "region": "West",
+   "qty": "1",
+   "unit_price": "39.0",
+   "status": "paid"
+  },
+  {
+   "order_id": "A-1201",
+   "date": "2026-10-11",
+   "customer": "Mia Torres",
+   "email": "mia.torres@example.com",
+   "phone": "+1 415 555 0199",
+   "product": "Office Chair",
+   "region": "West",
+   "qty": "1",
+   "unit_price": "189.0",
+   "status": "paid"
+  },
+  {
+   "order_id": "A-1202",
+   "date": "2026-10-10",
+   "customer": "Mia Torres",
+   "email": "mia.torres@example.com",
+   "phone": "+1 415 555 0199",
+   "product": "Monitor Arm",
+   "region": "West",
+   "qty": "1",
+   "unit_price": "74.5",
+   "status": "paid"
+  },
+  {
+   "order_id": "A-1203",
+   "date": "2026-10-11",
+   "customer": "Mia Torres",
+   "email": "mia.torres@example.com",
+   "phone": "+1 415 555 0199",
+   "product": "USB-C Dock",
+   "region": "West",
+   "qty": "1",
+   "unit_price": "129.0",
+   "status": "paid"
+  }
+ ]
+}

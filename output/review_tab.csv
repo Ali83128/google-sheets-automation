@@ -1,0 +1,7 @@
+order_id,date,customer,email,phone,product,region,qty,unit_price,status,problem
+A-1006,2026-09-26,Farid Khan,farid.khan@example,+16460122691,Office Chair,East,2,189.00,paid,invalid email
+A-1018,2026-10-06,Farid Khan,farid.khan@example.com,12345,Monitor Arm,West,2,74.50,shipped,invalid phone
+A-1030,next tuesday,Grace Garcia,grace.garcia@example.com,+16468069901,USB-C Dock,North,1,129.00,paid,unreadable date
+A-1045,2026-09-17,Grace Smith,grace.smith@example.com,+13128597703,Keyboard,West,0,59.90,paid,qty must be positive
+A-1062,2026-09-18,Liam Lee,,,Keyboard,East,2,59.90,paid,missing email
+A-1999,2026-09-14,Grace Rossi,grace.rossi@example.com,+16467262849,Desk Lamp,East,1,39.00,paid,possible double submission of A-1034

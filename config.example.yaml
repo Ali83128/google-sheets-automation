@@ -1,0 +1,31 @@
+# Production config: real Google Sheet through a service account.
+backend: gspread
+credentials_file: service_account.json        # keep out of git (see .gitignore)
+spreadsheet_key: "PASTE_THE_ID_FROM_THE_SHEET_URL"
+tabs:
+  orders: Orders
+  clean: Clean
+  review: Review
+  report: Weekly Report
+source:
+  type: api
+  path: https://shop.example.com/api/orders
+id_column: order_id
+default_country_code: "1"
+canonical_values:
+  product: ["Desk Lamp", "Office Chair", "USB-C Dock"]
+  region: ["North", "South", "East", "West"]
+quota:
+  max_ranges_per_request: 50
+  requests_per_minute: 50     # Sheets allows ~60 writes/min/user; leave headroom
+  max_retries: 5
+  base_delay: 1.0
+report:
+  week_ending: null
+  email_to: ["you@yourcompany.com"]
+  email_from: "reports@yourcompany.com"
+smtp:
+  host: smtp.yourprovider.com
+  port: 587
+  username: reports@yourcompany.com
+  password_env: SMTP_PASSWORD   # password is read from this environment variable

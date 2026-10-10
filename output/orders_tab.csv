@@ -1,0 +1,126 @@
+order_id,date,customer,email,phone,product,region,qty,unit_price,status
+A-1001,2026-10-04,  BEN   smith,  BEN.SMITH@EXAMPLE.COM ,(212) 181-9600,Monitor Arm,north,2,$74.50,refunded
+A-1002,2026-10-06,  ines   lee,ines.lee@example.com,(312) 026-5423,Office Chair,EAST ,1,189.0,paid
+A-1003,2026-10-07,  hassan   O'NEIL,  HASSAN.ONEIL@EXAMPLE.COM ,,USB-C Dock,north,2,$129.00,refunded
+A-1004,10/10/2026,  farid   garcia,farid.garcia@example.com,(646) 192-8327,Monitor Arm,South,3,74.5,shipped
+A-1005,2026-09-21,  anna   brown,anna.brown@example.com,(312) 953-7672,USB-C Dock,EAST ,3,129.0,shipped
+A-1006,2026-09-26,  farid   khan,farid.khan@example,(646) 012-2691,Office Chair,EAST ,2,189.0,paid
+A-1007,05/10/2026,  liam   O'NEIL,liam.oneil@example.com,,Keyboard,north,3,$59.90,refunded
+A-1008,2026-09-30,  jamal   khan,jamal.khan@example.com,312.809.5701,Office Chair,EAST ,1,$189.00,shipped
+A-1009,2026-09-16,  BEN   rossi,ben.rossi@example.com,,Desk Lamp,South,3,39.0,refunded
+A-1010,2026-10-04,  farid   rossi,farid.rossi@example.com,(415) 150-9839,Keyboard,north,1,$59.90,paid
+A-1011,11/10/2026,  farid   O'NEIL,  FARID.ONEIL@EXAMPLE.COM ,646.382.9973,keyboard,north,3,59.9,Paid 
+A-1012,27/09/2026,  hassan   smith,  HASSAN.SMITH@EXAMPLE.COM ,(646) 133-3872,Desk Lamp,north,2,39.0,shipped
+A-1013,"Sep 17, 2026",  anna   smith,anna.smith@example.com,(415) 267-7360,Desk Lamp,EAST ,2,$39.00,shipped
+A-1014,2026-10-07,  ines   rossi,  INES.ROSSI@EXAMPLE.COM ,+1 646 098 0500,Office Chair,South,1,189.0,paid
+A-1015,"Oct 11, 2026",  carla   O'NEIL,  CARLA.ONEIL@EXAMPLE.COM ,+1 212 619 3990,Keyboard,EAST ,1,$59.90,refunded
+A-1016,24/09/2026,  david     müller,  DAVID.MUELLER@EXAMPLE.COM ,(212) 751-0799,usb-c dock,EAST ,1,129.0,paid
+A-1017,2026-09-21,  farid     müller,farid.mueller@example.com,(415) 498-0841,Office Chair,South,1,$189.00,paid
+A-1018,2026-10-06,  farid   khan,farid.khan@example.com,12345,monitor arm, west,2,74.5,shipped
+A-1019,"Sep 14, 2026",  BEN   O'NEIL,ben.oneil@example.com,312.982.6204,Office Chair,north,1,$189.00,paid
+A-1020,2026-10-05,  BEN   brown,ben.brown@example.com,415.923.2260,Keyboard, west,3,59.9,paid
+A-1021,"Sep 22, 2026",  carla   O'NEIL,carla.oneil@example.com,+1 212 337 5433,USB-C Dock,EAST ,1,129.0,shipped
+A-1022,2026-09-25,  kate   lee,kate.lee@example.com,(646) 429-4019,Keyboard, west,2,59.9,paid
+A-1023,2026-09-26,  jamal   khan,  JAMAL.KHAN@EXAMPLE.COM ,+1 312 883 5615,monitor arm,EAST ,2,74.5,Paid 
+A-1024,2026-09-24,  grace     müller,  GRACE.MUELLER@EXAMPLE.COM ,(212) 629-9468,keyboard,EAST ,2,59.9,refunded
+A-1025,2026-09-20,  ines   rossi,ines.rossi@example.com,(415) 951-3433,office chair, west,2,189.0,paid
+A-1026,2026-09-28,  grace   khan,grace.khan@example.com,+1 212 016 3287,USB-C Dock,north,2,$129.00,Paid 
+A-1027,05/10/2026,  ines   brown,ines.brown@example.com,312.868.7277,USB-C Dock,EAST ,2,129.0,paid
+A-1028,2026-09-22,  hassan   O'NEIL,  HASSAN.ONEIL@EXAMPLE.COM ,(415) 812-2362,Monitor Arm, west,2,$74.50,Paid 
+A-1029,2026-09-26,  jamal   smith,jamal.smith@example.com,+1 415 546 6889,keyboard, west,1,59.9,refunded
+A-1030,next tuesday,  grace   garcia,grace.garcia@example.com,(646) 806-9901,USB-C Dock,north,1,129.0,paid
+A-1031,2026/09/28,  farid   brown,farid.brown@example.com,(312) 641-7080,usb-c dock,north,1,129.0,paid
+A-1032,10/10/2026,  anna   garcia,  ANNA.GARCIA@EXAMPLE.COM ,212.937.4529,office chair,EAST ,1,189.0,paid
+A-1033,2026-10-02,  kate   lee,kate.lee@example.com,(212) 931-4919,USB-C Dock,EAST ,1,129.0,paid
+A-1034,2026-09-14,  grace   rossi,grace.rossi@example.com,+1 646 726 2849,Desk Lamp,EAST ,1,39.0,paid
+A-1035,22/09/2026,  hassan   khan,hassan.khan@example.com,312.507.5273,USB-C Dock,EAST ,2,$129.00,paid
+A-1036,2026-09-16,  david   lee,david.lee@example.com,+1 646 777 0143,USB-C Dock,EAST ,2,129.0,paid
+A-1037,2026-09-27,  liam   brown,liam.brown@example.com,(415) 431-3518,Monitor Arm,EAST ,3,74.5,shipped
+A-1038,2026-10-03,  Emma   O'NEIL,emma.oneil@example.com,+1 312 408 2400,office chair, west,1,189.0,shipped
+A-1039,2026/09/23,  hassan   rossi,hassan.rossi@example.com,(212) 471-1671,USB-C Dock,EAST ,1,129.0,paid
+A-1040,"Oct 01, 2026",  grace   khan,grace.khan@example.com,,keyboard,South,1,59.9,paid
+A-1041,2026-09-21,  carla   O'NEIL,  CARLA.ONEIL@EXAMPLE.COM ,(646) 974-0344,office chair,EAST ,3,189.0,paid
+A-1042,"Sep 27, 2026",  BEN   khan,ben.khan@example.com,(646) 102-4994,Office Chair, west,1,189.0,Paid 
+A-1043,28/09/2026,  BEN   smith,ben.smith@example.com,212.013.9904,usb-c dock, west,1,$129.00,shipped
+A-1044,2026-09-27,  kate   rossi,kate.rossi@example.com,646.512.5674,Desk Lamp, west,1,39.0,paid
+A-1045,2026-09-17,  grace   smith,grace.smith@example.com,+1 312 859 7703,Keyboard, west,0,59.9,paid
+A-1046,2026-10-04,  jamal   khan,jamal.khan@example.com,,office chair,EAST ,2,189.0,Paid 
+A-1047,21/09/2026,  hassan   garcia,  HASSAN.GARCIA@EXAMPLE.COM ,(212) 214-6584,usb-c dock, west,1,129.0,Paid 
+A-1048,"Sep 25, 2026",  farid   lee,farid.lee@example.com,646.396.3605,USB-C Dock, west,3,129.0,refunded
+A-1049,18/09/2026,  hassan   smith,hassan.smith@example.com,646.171.8702,Office Chair,north,2,189.0,paid
+A-1050,"Sep 24, 2026",  jamal   lee,jamal.lee@example.com,(212) 865-7809,Desk Lamp,EAST ,1,39.0,Paid 
+A-1051,2026-09-17,  kate   O'NEIL,  KATE.ONEIL@EXAMPLE.COM ,(646) 005-0455,USB-C Dock,South,1,$129.00,shipped
+A-1052,2026-10-11,  grace   khan,grace.khan@example.com,(415) 747-4074,USB-C Dock,EAST ,3,129.0,refunded
+A-1053,"Sep 22, 2026",  hassan     müller,hassan.mueller@example.com,(312) 136-9594,Office Chair, west,1,$189.00,refunded
+A-1054,"Oct 08, 2026",  liam   smith,liam.smith@example.com,+1 312 439 5339,Keyboard,South,3,$59.90,refunded
+A-1055,2026-10-04,  anna     müller,  ANNA.MUELLER@EXAMPLE.COM ,415.214.5623,USB-C Dock,EAST ,2,129.0,paid
+A-1056,2026-10-10,  carla     müller,carla.mueller@example.com,(312) 517-1236,USB-C Dock,EAST ,2,$129.00,paid
+A-1057,05/10/2026,  liam     müller,liam.mueller@example.com,,keyboard,north,3,59.9,refunded
+A-1058,"Sep 23, 2026",  kate   lee,  KATE.LEE@EXAMPLE.COM ,+1 646 471 1382,Desk Lamp, west,2,39.0,paid
+A-1059,"Sep 27, 2026",  kate   O'NEIL,kate.oneil@example.com,(312) 405-3773,USB-C Dock,EAST ,1,129.0,paid
+A-1060,17/09/2026,  hassan   O'NEIL,hassan.oneil@example.com,212.005.3293,Office Chair,South,1,189.0,paid
+A-1061,2026-10-09,  jamal   smith,jamal.smith@example.com,(212) 284-2102,Monitor Arm,EAST ,1,$74.50,paid
+A-1062,2026-09-18,  liam   lee,,,keyboard,EAST ,2,59.9,paid
+A-1063,2026-09-15,  hassan   lee,hassan.lee@example.com,(415) 711-5921,USB-C Dock,EAST ,2,129.0,shipped
+A-1064,2026-09-23,  hassan   lee,hassan.lee@example.com,(646) 836-7365,Desk Lamp,EAST ,2,39.0,paid
+A-1065,2026-09-25,  carla   rossi,  CARLA.ROSSI@EXAMPLE.COM ,+1 312 615 2809,Desk Lamp, west,3,$39.00,paid
+A-1066,2026-10-03,  Emma   brown,emma.brown@example.com,+1 312 731 5851,Desk Lamp,north,2,39.0,refunded
+A-1067,2026-09-22,  anna   garcia,anna.garcia@example.com,(212) 550-2296,Monitor Arm,north,1,74.5,paid
+A-1068,2026-09-26,  grace   rossi,  GRACE.ROSSI@EXAMPLE.COM ,+1 212 599 1022,monitor arm, west,2,74.5,Paid 
+A-1069,2026-09-22,  david   O'NEIL,david.oneil@example.com,(212) 978-4036,Monitor Arm,South,1,74.5,paid
+A-1070,2026-09-24,  BEN   smith,ben.smith@example.com,646.683.8851,usb-c dock,north,2,129.0,paid
+A-1071,2026-10-02,  grace   lee,grace.lee@example.com,(212) 529-7516,USB-C Dock,north,2,129.0,refunded
+A-1072,24/09/2026,  david   brown,  DAVID.BROWN@EXAMPLE.COM ,(212) 883-5523,office chair,South,3,$189.00,refunded
+A-1073,2026/09/29,  hassan   rossi,hassan.rossi@example.com,312.552.7177,Keyboard,EAST ,2,$59.90,Paid 
+A-1074,2026-09-28,  anna   smith,anna.smith@example.com,+1 212 199 8679,Monitor Arm,South,1,74.5,shipped
+A-1075,"Sep 18, 2026",  anna   rossi,anna.rossi@example.com,(415) 182-0377,Desk Lamp, west,2,39.0,refunded
+A-1076,03/10/2026,  anna   brown,anna.brown@example.com,,Desk Lamp, west,1,39.0,paid
+A-1077,23/09/2026,  ines   lee,ines.lee@example.com,(312) 816-8505,monitor arm, west,1,$74.50,paid
+A-1078,2026-09-18,  BEN     müller,ben.mueller@example.com,(415) 805-9296,Desk Lamp,South,3,39.0,Paid 
+A-1079,25/09/2026,  kate   khan,kate.khan@example.com,+1 312 738 3473,USB-C Dock, west,2,129.0,Paid 
+A-1080,"Sep 30, 2026",  ines   lee,ines.lee@example.com,(212) 240-7581,Office Chair,EAST ,2,189.0,paid
+A-1081,"Oct 10, 2026",  grace   O'NEIL,grace.oneil@example.com,,Office Chair,north,1,189.0,refunded
+A-1082,"Oct 04, 2026",  farid   garcia,  FARID.GARCIA@EXAMPLE.COM ,(212) 727-7901,Office Chair, west,1,189.0,paid
+A-1083,23/09/2026,  BEN   smith,ben.smith@example.com,415.711.7980,office chair,north,2,189.0,shipped
+A-1084,2026-09-27,  carla   O'NEIL,carla.oneil@example.com,(646) 888-8806,Keyboard,EAST ,1,59.9,paid
+A-1085,09/10/2026,  BEN   brown,ben.brown@example.com,415.952.0585,Office Chair, west,3,$189.00,paid
+A-1086,2026-09-16,  liam   rossi,liam.rossi@example.com,(646) 305-4868,Desk Lamp,South,1,39.0,paid
+A-1087,2026-10-11,  kate   brown,  KATE.BROWN@EXAMPLE.COM ,,Monitor Arm,north,3,74.5,Paid 
+A-1088,2026-10-03,  carla     müller,  CARLA.MUELLER@EXAMPLE.COM ,+1 312 447 9627,Monitor Arm,EAST ,2,74.5,paid
+A-1089,"Oct 04, 2026",  anna   O'NEIL,anna.oneil@example.com,(212) 202-9702,USB-C Dock,EAST ,2,129.0,paid
+A-1090,03/10/2026,  carla   rossi,carla.rossi@example.com,,monitor arm,South,2,74.5,shipped
+A-1091,17/09/2026,  Emma     müller,  EMMA.MUELLER@EXAMPLE.COM ,,USB-C Dock,EAST ,3,129.0,paid
+A-1092,01/10/2026,  ines     müller,ines.mueller@example.com,415.258.3132,monitor arm,EAST ,2,74.5,shipped
+A-1093,2026/09/18,  jamal   O'NEIL,jamal.oneil@example.com,+1 312 786 6912,Desk Lamp,EAST ,1,39.0,shipped
+A-1094,"Oct 04, 2026",  jamal   garcia,jamal.garcia@example.com,,office chair,EAST ,1,$189.00,refunded
+A-1095,2026-10-01,  Emma   garcia,emma.garcia@example.com,312.299.2299,Monitor Arm,north,1,$74.50,refunded
+A-1096,2026-10-08,  jamal     müller,jamal.mueller@example.com,(646) 078-4473,office chair,north,1,189.0,Paid 
+A-1097,"Sep 28, 2026",  david   brown,  DAVID.BROWN@EXAMPLE.COM ,(212) 556-2588,Keyboard,EAST ,2,$59.90,paid
+A-1098,2026/09/15,  Emma   lee,emma.lee@example.com,+1 646 259 5327,Keyboard,north,1,59.9,shipped
+A-1099,2026-09-28,  david   khan,david.khan@example.com,(646) 797-4801,keyboard,EAST ,2,59.9,Paid 
+A-1100,2026-09-15,  jamal   khan,jamal.khan@example.com,,Monitor Arm,EAST ,2,74.5,paid
+A-1101,2026-09-20,  jamal   lee,  JAMAL.LEE@EXAMPLE.COM ,(415) 578-7298,Keyboard,South,2,59.9,refunded
+A-1102,2026-10-10,  Emma   brown,emma.brown@example.com,+1 646 947 0551,Keyboard,north,2,59.9,refunded
+A-1103,2026-10-09,  jamal   khan,jamal.khan@example.com,(415) 962-3091,Desk Lamp,South,2,39.0,Paid 
+A-1104,2026-09-30,  jamal   rossi,jamal.rossi@example.com,,Desk Lamp,EAST ,3,39.0,refunded
+A-1105,2026/10/05,  kate     müller,kate.mueller@example.com,(646) 484-3443,Keyboard,EAST ,1,$59.90,refunded
+A-1106,"Oct 01, 2026",  grace   lee,grace.lee@example.com,(646) 404-1574,Monitor Arm,EAST ,2,74.5,paid
+A-1107,"Sep 17, 2026",  jamal   khan,  JAMAL.KHAN@EXAMPLE.COM ,+1 212 330 1657,office chair,South,2,189.0,Paid 
+A-1108,29/09/2026,  kate   khan,kate.khan@example.com,,monitor arm, west,2,$74.50,refunded
+A-1109,11/10/2026,  Emma   smith,emma.smith@example.com,(646) 547-8872,Desk Lamp,EAST ,1,39.0,refunded
+A-1110,22/09/2026,  liam   garcia,liam.garcia@example.com,(312) 932-9668,Desk Lamp,South,1,39.0,paid
+A-1111,2026-09-14,  Emma   lee,emma.lee@example.com,(415) 549-9045,office chair,EAST ,1,189.0,shipped
+A-1112,2026-10-06,  Emma   O'NEIL,emma.oneil@example.com,646.272.7956,Monitor Arm,South,1,74.5,shipped
+A-1113,2026-10-11,  BEN   rossi,ben.rossi@example.com,(415) 910-8839,Keyboard, west,1,59.9,refunded
+A-1114,2026-10-02,  hassan   O'NEIL,hassan.oneil@example.com,+1 646 286 7908,Keyboard,north,2,$59.90,paid
+A-1115,07/10/2026,  david   O'NEIL,david.oneil@example.com,415.801.7046,Desk Lamp, west,1,39.0,Paid 
+A-1116,28/09/2026,  grace   lee,grace.lee@example.com,415.825.1286,desk lamp,north,1,39.0,Paid 
+A-1117,2026-10-05,  liam   lee,liam.lee@example.com,+1 646 752 4310,Keyboard,north,1,$59.90,paid
+A-1118,"Oct 03, 2026",  anna   rossi,anna.rossi@example.com,(212) 306-7383,Keyboard,South,3,59.9,shipped
+A-1119,2026-10-03,  kate   brown,kate.brown@example.com,+1 415 836 4408,Office Chair, west,1,189.0,refunded
+A-1120,2026-10-05,  grace   brown,grace.brown@example.com,,USB-C Dock, west,2,129.0,Paid 
+A-1999,2026-09-14,  grace   rossi,grace.rossi@example.com,+1 646 726 2849,Desk Lamp,EAST ,1,39.0,paid
+A-1200,2026-10-10,Mia Torres,mia.torres@example.com,+1 415 555 0199,Desk Lamp,West,1,39.0,paid
+A-1201,2026-10-11,Mia Torres,mia.torres@example.com,+1 415 555 0199,Office Chair,West,1,189.0,paid
+A-1202,2026-10-10,Mia Torres,mia.torres@example.com,+1 415 555 0199,Monitor Arm,West,1,74.5,paid
+A-1203,2026-10-11,Mia Torres,mia.torres@example.com,+1 415 555 0199,USB-C Dock,West,1,129.0,paid

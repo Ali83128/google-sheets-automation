@@ -1,0 +1,6 @@
+# Second sync in the demo: pull updates from an API-style JSON feed.
+backend: fake
+fake_store: output/fake_sheet.json
+source:
+  type: api
+  path: data/api_orders.json   # or a URL: https://shop.example.com/api/orders?since=...

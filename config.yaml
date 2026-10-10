@@ -1,0 +1,21 @@
+# Demo config: runs fully offline against a local fake spreadsheet.
+backend: fake
+fake_store: output/fake_sheet.json
+source:
+  type: csv
+  path: data/orders_export.csv
+id_column: order_id
+default_country_code: "1"
+canonical_values:            # official spellings; matched case-insensitively
+  product: ["Desk Lamp", "Office Chair", "Monitor Arm", "USB-C Dock", "Keyboard"]
+  region: ["North", "South", "East", "West"]
+date_formats: ["%Y-%m-%d", "%d/%m/%Y", "%b %d %Y", "%Y/%m/%d"]
+quota:
+  max_ranges_per_request: 50
+  requests_per_minute: 50
+  max_retries: 5
+  base_delay: 1.0
+report:
+  week_ending: null          # null = last complete week in the data
+  email_to: ["owner@example.com"]
+  email_from: "reports@example.com"

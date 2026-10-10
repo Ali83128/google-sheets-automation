@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+service_account.json
+*.credentials.json
+.env
+output/fake_sheet.json
+sheetsauto.log

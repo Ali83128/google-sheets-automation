@@ -1,0 +1,17 @@
+$ python -m sheetsauto sync
+07:05:36 INFO  backend=fake quota: 50 ranges/request, 50 requests/min
+07:05:39 INFO  sync    source=data/orders_export.csv inserted=121 updated=0 unchanged=0 duplicate_ids_merged=2 api_requests=3
+07:05:39 INFO  done    total_api_requests=3
+$ python -m sheetsauto sync --config config.api.yaml
+07:05:39 INFO  backend=fake quota: 50 ranges/request, 50 requests/min
+07:05:41 INFO  sync    source=data/api_orders.json inserted=4 updated=2 unchanged=1 duplicate_ids_merged=0 api_requests=3
+07:05:41 INFO  done    total_api_requests=3
+$ python -m sheetsauto clean
+07:05:41 INFO  backend=fake quota: 50 ranges/request, 50 requests/min
+07:05:46 INFO  clean   clean_rows=119 review_rows=6 exact_duplicates_removed=0
+07:05:46 INFO  done    total_api_requests=5
+$ python -m sheetsauto report --dry-email
+07:05:46 INFO  backend=fake quota: 50 ranges/request, 50 requests/min
+07:05:49 INFO  report  week=2026-09-28 revenue=4011.20 (prev 4670.70, -14.1%) orders=25
+07:05:49 INFO  email   (dry run) to=owner@example.com subject='Weekly sales report - week of 2026-09-28'
+07:05:49 INFO  done    total_api_requests=3

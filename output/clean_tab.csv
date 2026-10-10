@@ -1,0 +1,120 @@
+order_id,date,customer,email,phone,product,region,qty,unit_price,status
+A-1019,2026-09-14,Ben O'neil,ben.oneil@example.com,+13129826204,Office Chair,North,1,189.00,paid
+A-1034,2026-09-14,Grace Rossi,grace.rossi@example.com,+16467262849,Desk Lamp,East,1,39.00,paid
+A-1111,2026-09-14,Emma Lee,emma.lee@example.com,+14155499045,Office Chair,East,1,189.00,shipped
+A-1063,2026-09-15,Hassan Lee,hassan.lee@example.com,+14157115921,USB-C Dock,East,2,129.00,shipped
+A-1098,2026-09-15,Emma Lee,emma.lee@example.com,+16462595327,Keyboard,North,1,59.90,shipped
+A-1100,2026-09-15,Jamal Khan,jamal.khan@example.com,,Monitor Arm,East,2,74.50,paid
+A-1009,2026-09-16,Ben Rossi,ben.rossi@example.com,,Desk Lamp,South,3,39.00,refunded
+A-1036,2026-09-16,David Lee,david.lee@example.com,+16467770143,USB-C Dock,East,2,129.00,paid
+A-1086,2026-09-16,Liam Rossi,liam.rossi@example.com,+16463054868,Desk Lamp,South,1,39.00,paid
+A-1013,2026-09-17,Anna Smith,anna.smith@example.com,+14152677360,Desk Lamp,East,2,39.00,shipped
+A-1051,2026-09-17,Kate O'neil,kate.oneil@example.com,+16460050455,USB-C Dock,South,1,129.00,shipped
+A-1060,2026-09-17,Hassan O'neil,hassan.oneil@example.com,+12120053293,Office Chair,South,1,189.00,paid
+A-1091,2026-09-17,Emma Müller,emma.mueller@example.com,,USB-C Dock,East,3,129.00,paid
+A-1107,2026-09-17,Jamal Khan,jamal.khan@example.com,+12123301657,Office Chair,South,2,189.00,paid
+A-1049,2026-09-18,Hassan Smith,hassan.smith@example.com,+16461718702,Office Chair,North,2,189.00,paid
+A-1075,2026-09-18,Anna Rossi,anna.rossi@example.com,+14151820377,Desk Lamp,West,2,39.00,refunded
+A-1078,2026-09-18,Ben Müller,ben.mueller@example.com,+14158059296,Desk Lamp,South,3,39.00,paid
+A-1093,2026-09-18,Jamal O'neil,jamal.oneil@example.com,+13127866912,Desk Lamp,East,1,39.00,shipped
+A-1025,2026-09-20,Ines Rossi,ines.rossi@example.com,+14159513433,Office Chair,West,2,189.00,paid
+A-1101,2026-09-20,Jamal Lee,jamal.lee@example.com,+14155787298,Keyboard,South,2,59.90,refunded
+A-1005,2026-09-21,Anna Brown,anna.brown@example.com,+13129537672,USB-C Dock,East,3,129.00,shipped
+A-1017,2026-09-21,Farid Müller,farid.mueller@example.com,+14154980841,Office Chair,South,1,189.00,paid
+A-1041,2026-09-21,Carla O'neil,carla.oneil@example.com,+16469740344,Office Chair,East,3,189.00,paid
+A-1047,2026-09-21,Hassan Garcia,hassan.garcia@example.com,+12122146584,USB-C Dock,West,1,129.00,paid
+A-1021,2026-09-22,Carla O'neil,carla.oneil@example.com,+12123375433,USB-C Dock,East,1,129.00,shipped
+A-1028,2026-09-22,Hassan O'neil,hassan.oneil@example.com,+14158122362,Monitor Arm,West,2,74.50,paid
+A-1035,2026-09-22,Hassan Khan,hassan.khan@example.com,+13125075273,USB-C Dock,East,2,129.00,paid
+A-1053,2026-09-22,Hassan Müller,hassan.mueller@example.com,+13121369594,Office Chair,West,1,189.00,refunded
+A-1067,2026-09-22,Anna Garcia,anna.garcia@example.com,+12125502296,Monitor Arm,North,1,74.50,paid
+A-1069,2026-09-22,David O'neil,david.oneil@example.com,+12129784036,Monitor Arm,South,1,74.50,paid
+A-1110,2026-09-22,Liam Garcia,liam.garcia@example.com,+13129329668,Desk Lamp,South,1,39.00,paid
+A-1039,2026-09-23,Hassan Rossi,hassan.rossi@example.com,+12124711671,USB-C Dock,East,1,129.00,paid
+A-1058,2026-09-23,Kate Lee,kate.lee@example.com,+16464711382,Desk Lamp,West,2,39.00,paid
+A-1064,2026-09-23,Hassan Lee,hassan.lee@example.com,+16468367365,Desk Lamp,East,2,39.00,paid
+A-1077,2026-09-23,Ines Lee,ines.lee@example.com,+13128168505,Monitor Arm,West,1,74.50,paid
+A-1083,2026-09-23,Ben Smith,ben.smith@example.com,+14157117980,Office Chair,North,2,189.00,shipped
+A-1016,2026-09-24,David Müller,david.mueller@example.com,+12127510799,USB-C Dock,East,1,129.00,paid
+A-1024,2026-09-24,Grace Müller,grace.mueller@example.com,+12126299468,Keyboard,East,2,59.90,refunded
+A-1050,2026-09-24,Jamal Lee,jamal.lee@example.com,+12128657809,Desk Lamp,East,1,39.00,paid
+A-1070,2026-09-24,Ben Smith,ben.smith@example.com,+16466838851,USB-C Dock,North,2,129.00,paid
+A-1072,2026-09-24,David Brown,david.brown@example.com,+12128835523,Office Chair,South,3,189.00,refunded
+A-1022,2026-09-25,Kate Lee,kate.lee@example.com,+16464294019,Keyboard,West,2,59.90,paid
+A-1048,2026-09-25,Farid Lee,farid.lee@example.com,+16463963605,USB-C Dock,West,3,129.00,refunded
+A-1065,2026-09-25,Carla Rossi,carla.rossi@example.com,+13126152809,Desk Lamp,West,3,39.00,paid
+A-1079,2026-09-25,Kate Khan,kate.khan@example.com,+13127383473,USB-C Dock,West,2,129.00,paid
+A-1023,2026-09-26,Jamal Khan,jamal.khan@example.com,+13128835615,Monitor Arm,East,2,74.50,paid
+A-1029,2026-09-26,Jamal Smith,jamal.smith@example.com,+14155466889,Keyboard,West,1,59.90,refunded
+A-1068,2026-09-26,Grace Rossi,grace.rossi@example.com,+12125991022,Monitor Arm,West,2,74.50,paid
+A-1012,2026-09-27,Hassan Smith,hassan.smith@example.com,+16461333872,Desk Lamp,North,2,39.00,shipped
+A-1037,2026-09-27,Liam Brown,liam.brown@example.com,+14154313518,Monitor Arm,East,3,74.50,shipped
+A-1042,2026-09-27,Ben Khan,ben.khan@example.com,+16461024994,Office Chair,West,1,189.00,paid
+A-1044,2026-09-27,Kate Rossi,kate.rossi@example.com,+16465125674,Desk Lamp,West,1,39.00,paid
+A-1059,2026-09-27,Kate O'neil,kate.oneil@example.com,+13124053773,USB-C Dock,East,1,129.00,paid
+A-1084,2026-09-27,Carla O'neil,carla.oneil@example.com,+16468888806,Keyboard,East,1,59.90,paid
+A-1026,2026-09-28,Grace Khan,grace.khan@example.com,+12120163287,USB-C Dock,North,2,129.00,paid
+A-1031,2026-09-28,Farid Brown,farid.brown@example.com,+13126417080,USB-C Dock,North,1,129.00,paid
+A-1043,2026-09-28,Ben Smith,ben.smith@example.com,+12120139904,USB-C Dock,West,1,129.00,shipped
+A-1074,2026-09-28,Anna Smith,anna.smith@example.com,+12121998679,Monitor Arm,South,1,74.50,shipped
+A-1097,2026-09-28,David Brown,david.brown@example.com,+12125562588,Keyboard,East,2,59.90,paid
+A-1099,2026-09-28,David Khan,david.khan@example.com,+16467974801,Keyboard,East,2,59.90,paid
+A-1116,2026-09-28,Grace Lee,grace.lee@example.com,+14158251286,Desk Lamp,North,1,39.00,paid
+A-1073,2026-09-29,Hassan Rossi,hassan.rossi@example.com,+13125527177,Keyboard,East,2,59.90,paid
+A-1108,2026-09-29,Kate Khan,kate.khan@example.com,,Monitor Arm,West,2,74.50,refunded
+A-1008,2026-09-30,Jamal Khan,jamal.khan@example.com,+13128095701,Office Chair,East,1,189.00,shipped
+A-1080,2026-09-30,Ines Lee,ines.lee@example.com,+12122407581,Office Chair,East,2,189.00,paid
+A-1104,2026-09-30,Jamal Rossi,jamal.rossi@example.com,,Desk Lamp,East,3,39.00,refunded
+A-1040,2026-10-01,Grace Khan,grace.khan@example.com,,Keyboard,South,1,59.90,paid
+A-1092,2026-10-01,Ines Müller,ines.mueller@example.com,+14152583132,Monitor Arm,East,2,74.50,shipped
+A-1095,2026-10-01,Emma Garcia,emma.garcia@example.com,+13122992299,Monitor Arm,North,1,74.50,refunded
+A-1106,2026-10-01,Grace Lee,grace.lee@example.com,+16464041574,Monitor Arm,East,2,74.50,paid
+A-1033,2026-10-02,Kate Lee,kate.lee@example.com,+12129314919,USB-C Dock,East,1,129.00,paid
+A-1071,2026-10-02,Grace Lee,grace.lee@example.com,+12125297516,USB-C Dock,North,2,129.00,refunded
+A-1114,2026-10-02,Hassan O'neil,hassan.oneil@example.com,+16462867908,Keyboard,North,2,59.90,paid
+A-1038,2026-10-03,Emma O'neil,emma.oneil@example.com,+13124082400,Office Chair,West,1,189.00,shipped
+A-1066,2026-10-03,Emma Brown,emma.brown@example.com,+13127315851,Desk Lamp,North,2,39.00,refunded
+A-1076,2026-10-03,Anna Brown,anna.brown@example.com,,Desk Lamp,West,1,39.00,paid
+A-1088,2026-10-03,Carla Müller,carla.mueller@example.com,+13124479627,Monitor Arm,East,2,74.50,paid
+A-1090,2026-10-03,Carla Rossi,carla.rossi@example.com,,Monitor Arm,South,2,74.50,shipped
+A-1118,2026-10-03,Anna Rossi,anna.rossi@example.com,+12123067383,Keyboard,South,3,59.90,shipped
+A-1119,2026-10-03,Kate Brown,kate.brown@example.com,+14158364408,Office Chair,West,1,189.00,refunded
+A-1001,2026-10-04,Ben Smith,ben.smith@example.com,+12121819600,Monitor Arm,North,2,74.50,refunded
+A-1010,2026-10-04,Farid Rossi,farid.rossi@example.com,+14151509839,Keyboard,North,1,59.90,paid
+A-1046,2026-10-04,Jamal Khan,jamal.khan@example.com,,Office Chair,East,2,189.00,paid
+A-1055,2026-10-04,Anna Müller,anna.mueller@example.com,+14152145623,USB-C Dock,East,2,129.00,paid
+A-1082,2026-10-04,Farid Garcia,farid.garcia@example.com,+12127277901,Office Chair,West,1,189.00,paid
+A-1089,2026-10-04,Anna O'neil,anna.oneil@example.com,+12122029702,USB-C Dock,East,2,129.00,paid
+A-1094,2026-10-04,Jamal Garcia,jamal.garcia@example.com,,Office Chair,East,1,189.00,refunded
+A-1007,2026-10-05,Liam O'neil,liam.oneil@example.com,,Keyboard,North,3,59.90,refunded
+A-1020,2026-10-05,Ben Brown,ben.brown@example.com,+14159232260,Keyboard,West,3,59.90,paid
+A-1027,2026-10-05,Ines Brown,ines.brown@example.com,+13128687277,USB-C Dock,East,2,129.00,paid
+A-1057,2026-10-05,Liam Müller,liam.mueller@example.com,,Keyboard,North,3,59.90,refunded
+A-1105,2026-10-05,Kate Müller,kate.mueller@example.com,+16464843443,Keyboard,East,1,59.90,refunded
+A-1117,2026-10-05,Liam Lee,liam.lee@example.com,+16467524310,Keyboard,North,1,59.90,paid
+A-1120,2026-10-05,Grace Brown,grace.brown@example.com,,USB-C Dock,West,2,129.00,paid
+A-1002,2026-10-06,Ines Lee,ines.lee@example.com,+13120265423,Office Chair,East,1,189.00,paid
+A-1112,2026-10-06,Emma O'neil,emma.oneil@example.com,+16462727956,Monitor Arm,South,1,74.50,shipped
+A-1003,2026-10-07,Hassan O'neil,hassan.oneil@example.com,,USB-C Dock,North,2,129.00,refunded
+A-1014,2026-10-07,Ines Rossi,ines.rossi@example.com,+16460980500,Office Chair,South,1,189.00,paid
+A-1115,2026-10-07,David O'neil,david.oneil@example.com,+14158017046,Desk Lamp,West,1,39.00,paid
+A-1054,2026-10-08,Liam Smith,liam.smith@example.com,+13124395339,Keyboard,South,3,59.90,refunded
+A-1096,2026-10-08,Jamal Müller,jamal.mueller@example.com,+16460784473,Office Chair,North,1,189.00,paid
+A-1061,2026-10-09,Jamal Smith,jamal.smith@example.com,+12122842102,Monitor Arm,East,1,74.50,paid
+A-1085,2026-10-09,Ben Brown,ben.brown@example.com,+14159520585,Office Chair,West,3,189.00,paid
+A-1103,2026-10-09,Jamal Khan,jamal.khan@example.com,+14159623091,Desk Lamp,South,2,39.00,paid
+A-1004,2026-10-10,Farid Garcia,farid.garcia@example.com,+16461928327,Monitor Arm,South,3,74.50,shipped
+A-1032,2026-10-10,Anna Garcia,anna.garcia@example.com,+12129374529,Office Chair,East,1,189.00,paid
+A-1056,2026-10-10,Carla Müller,carla.mueller@example.com,+13125171236,USB-C Dock,East,2,129.00,paid
+A-1081,2026-10-10,Grace O'neil,grace.oneil@example.com,,Office Chair,North,1,189.00,refunded
+A-1102,2026-10-10,Emma Brown,emma.brown@example.com,+16469470551,Keyboard,North,2,59.90,refunded
+A-1200,2026-10-10,Mia Torres,mia.torres@example.com,+14155550199,Desk Lamp,West,1,39.00,paid
+A-1202,2026-10-10,Mia Torres,mia.torres@example.com,+14155550199,Monitor Arm,West,1,74.50,paid
+A-1011,2026-10-11,Farid O'neil,farid.oneil@example.com,+16463829973,Keyboard,North,3,59.90,paid
+A-1015,2026-10-11,Carla O'neil,carla.oneil@example.com,+12126193990,Keyboard,East,1,59.90,refunded
+A-1052,2026-10-11,Grace Khan,grace.khan@example.com,+14157474074,USB-C Dock,East,3,129.00,refunded
+A-1087,2026-10-11,Kate Brown,kate.brown@example.com,,Monitor Arm,North,3,74.50,paid
+A-1109,2026-10-11,Emma Smith,emma.smith@example.com,+16465478872,Desk Lamp,East,1,39.00,refunded
+A-1113,2026-10-11,Ben Rossi,ben.rossi@example.com,+14159108839,Keyboard,West,1,59.90,refunded
+A-1201,2026-10-11,Mia Torres,mia.torres@example.com,+14155550199,Office Chair,West,1,189.00,paid
+A-1203,2026-10-11,Mia Torres,mia.torres@example.com,+14155550199,USB-C Dock,West,1,129.00,paid
