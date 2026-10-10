@@ -1,7 +1,7 @@
 ============================= test session starts ==============================
-platform linux -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0 -- /home/ali/upwork-demos/google-sheets-automation/../.venv/bin/python
+platform linux -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0 -- .venv/bin/python
 cachedir: .pytest_cache
-rootdir: /home/ali/upwork-demos/google-sheets-automation
+rootdir: .
 configfile: pytest.ini
 testpaths: tests
 plugins: asyncio-1.4.0, anyio-4.15.1
